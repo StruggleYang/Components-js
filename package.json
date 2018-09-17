@@ -1,0 +1,28 @@
+{
+  "name": "Components-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StruggleYang/Components-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StruggleYang/Components-js/issues"
+  },
+  "homepage": "https://github.com/StruggleYang/Components-js#readme",
+  "dependencies": {
+    "ansi_up": "^3.0.0",
+    "bulma": "^0.7.1",
+    "xterm": "^3.7.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0"
+  }
+}
